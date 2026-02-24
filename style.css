@@ -84,7 +84,7 @@ padding-top: 50px;
 }
 @media (max-width: 375px) {
 	.title {
-		font-size: clamp(10vh, 15vh, 22vh);
+		font-size: clamp(5vh, 10vh, 15vh);
 	}
 }
 
